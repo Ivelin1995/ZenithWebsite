@@ -1,0 +1,170 @@
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\csc.exe
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\vbc.exe
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\VBCSCompiler.exe
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\ZenithWebsite.dll.config
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\ZenithWebsite.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\ZenithWebsite.pdb
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Antlr3.Runtime.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\EntityFramework.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\EntityFramework.SqlServer.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.Web.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.ApplicationInsights.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Google.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Newtonsoft.Json.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Owin.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Helpers.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Mvc.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Optimization.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Razor.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Deployment.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Razor.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\WebGrease.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\ZenithDataLib.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\ZenithDataLib.pdb
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.Web.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.ApplicationInsights.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Helpers.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Mvc.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Optimization.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.Razor.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Deployment.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Razor.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Antlr3.Runtime.pdb
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Newtonsoft.Json.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\EntityFramework.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\EntityFramework.SqlServer.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Google.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.csprojResolveAssemblyReference.cache
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.pdb
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.Migrations.Initialization.resources
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.csproj.GenerateResource.Cache
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\csc.exe
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\vbc.exe
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\ZenithWebsite.dll.config
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\ZenithWebsite.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\ZenithWebsite.pdb
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Antlr3.Runtime.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\EntityFramework.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Newtonsoft.Json.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Owin.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Helpers.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Mvc.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Optimization.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Razor.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\WebGrease.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\ZenithDataLib.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\ZenithDataLib.pdb
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Helpers.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Mvc.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Optimization.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.Razor.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Newtonsoft.Json.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\EntityFramework.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.csprojResolveAssemblyReference.cache
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.Migrations.Initialization.resources
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.csproj.GenerateResource.Cache
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithWebsite\obj\Debug\ZenithWebsite.pdb

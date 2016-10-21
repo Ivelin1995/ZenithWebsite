@@ -1,0 +1,28 @@
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\ZenithDataLib.dll.config
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\a00904684\documents\visual studio 2015\Projects\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\ZenithDataLib.dll.config
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+C:\Users\II\Desktop\ZenithWebsite\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
